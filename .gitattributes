@@ -1,4 +1,4 @@
-*.lbe	binary
+*.lb2	binary
 .gitattributes export-ignore
 *LICENSE.txt export-ignore
 *license.txt export-ignore
