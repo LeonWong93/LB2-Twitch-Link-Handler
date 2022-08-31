@@ -1,7 +1,8 @@
-# LB2-Twitch-Clip-Link-Handler
+# SAMMI-Twitch-Clip-Link-Handler
 - Originally is an extension call "YouTube Video Duration" by Christina K.
 - Specially modified/enhanced for the purpose of use by myself and/or Epi's LB2 gang
 - Idea and coding was base on my enhanced Youtube Link Handler LB2 extension
+- Ported to SAMMI since v1.4
 
 what this extension do ?  
 Pass a Twitch Clip link to extension (and your Auth Token too),
