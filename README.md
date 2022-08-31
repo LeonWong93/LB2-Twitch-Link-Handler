@@ -5,12 +5,13 @@
 
 what this extension do ?  
 Pass a Twitch Clip link to extension (and your Auth Token too),
-and it will return 3 global variable for you.
+and it will return 4 global variable for you.
 1. Extract Twitch Clip's ClipID from link
 2. Return "Left Over" duration in milliseconds
    - if t= params not detect in url link, return full video duration.
    - if t= params is detected in url link,  return "Left Over" duration by using full video length minus starting second from t= params.
 3. Return "Valid" flag base on extension successful process the given link or not
+4. Return Twitch Clip's title
    
 enable Debug if extension is not function correctly for view more info
 
